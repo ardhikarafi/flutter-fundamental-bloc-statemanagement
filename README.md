@@ -1,4 +1,5 @@
-# bloc_state_management
+# Fundamental Flutter by ArdhikaRafi
+# Bloc_state_management
 
 A new Flutter project.
 
