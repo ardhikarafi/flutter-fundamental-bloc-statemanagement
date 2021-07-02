@@ -49,7 +49,6 @@ class MainPage extends StatelessWidget {
             width: 100,
             height: 100,
             color: currentColor,
-            duration: Duration(milliseconds: 500),
           ),
         ),
       ),
